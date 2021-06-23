@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tip calculator</title>
+        <link rel="stylesheet" href="Tipcalculator.css">
+    </head>
+
+<body>
+   <div class="boxcal">
+    <h1><span id="headline" >Tip calculator</span> </h1>
+
+
+<form action=""></form>
+<p>Total bill amount:</p>
+<label for="">$</label><input type="number" id="bill" >
+</form>
+
+<form action="">
+<P>How would you rate the service?</P>
+<select name="select!" id="service">
+<option value="30">30% Outstanding</option>
+<option value="20">20% Better</option>
+<option value="15">15% Good</option>
+<option value="10">10% Average</option>
+<option value="5">5% Bad</option>
+
+</select>
+</form>
+
+<form action="">
+    <P>Split the bill between how many people?
+    </P>
+    <input type="text" id="split" placeholder="Enter no. of"><label for="">People</label>
+</form>
+<br>
+<br>
+
+<button onclick="calculate()" id="button">calculate!</button>
+
+<h4 id="show"></h4>
+</div>
+
+
+
+
+
+
+
+<script src="Tipcalculator.js"></script>
+</body>
+</html>

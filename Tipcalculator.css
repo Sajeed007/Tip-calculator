@@ -1,0 +1,14 @@
+.boxcal{
+    text-align: center;
+    background-color: aquamarine;
+    width: 40%;
+    position: relative;
+    left: 200px;
+    top: 100px;
+    border-radius: 12px;
+    padding: 20px;
+}
+#headline{
+    background-color: #e42b0a;
+   
+} 
