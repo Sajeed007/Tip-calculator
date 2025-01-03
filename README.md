@@ -41,3 +41,18 @@ CSS: Styles the application, ensuring a responsive and visually appealing interf
 JavaScript: Handles the logic for calculating the tip and updating the UI with the results. Event listeners are added to the input fields and button to trigger the calculation function.
 
 
+## Contributing
+We welcome contributions to improve the Tip Calculator. To contribute:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature/YourFeature).
+
+Make your changes and commit them (git commit -m 'Add some feature').
+
+Push to the branch (git push origin feature/YourFeature).
+
+Open a pull request.
+
+
+
